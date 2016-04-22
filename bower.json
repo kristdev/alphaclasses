@@ -1,0 +1,25 @@
+{
+  "name": "alphaclasses",
+  "homepage": "https://github.com/kristdev/alphaclasses",
+  "authors": [
+    "kristdev (Franck Pambe) <info@kristdev.com>"
+  ],
+  "description": "pojet tutoriel",
+  "main": "",
+  "keywords": [
+    "\"bootstrap\"",
+    "\"photoshop\"",
+    "\"bower\"",
+    "\"dploy\"",
+    "\"sass\""
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
